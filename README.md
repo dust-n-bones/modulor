@@ -1,2 +1,2 @@
-# event_detection
+#Modulor
 Event Detection System
