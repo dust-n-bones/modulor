@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Low-Rank Methods in Event Detection and Subsampled
+  Point-to-Subspace Proximity Tests
+message: Cite
+type: software
+authors:
+  - given-names: Jakub
+    family-names: Marecek
+    affiliation: Czech Technical University
+    orcid: 'https://orcid.org/0000-0003-0839-0691'
+  - given-names: Stathis
+    family-names: Maroulis
+    affiliation: Athens University of Economics and Business
+  - given-names: Vana
+    family-names: Kalogeraki
+    affiliation: Athens University of Economics and Business
+  - given-names: Dimitrios
+    family-names: Gunopulos
+    affiliation: National and Kapodistrian University of Athens
+url: "https://github.com/jmarecek/modulor"
+version: 1.0.0
+date-released: 2022-02-15
